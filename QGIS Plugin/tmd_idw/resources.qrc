@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/plugins/tmd_idw" >
+        <file>icon.png</file>
+        <file>hammer.png</file>
+		<file>img/rain.png</file>
+		<file>img/folder.png</file>
+		<file>img/refresh.png</file>
+		<file>img/api.gif</file>
+		<file>img/wt.jpg</file>
+    </qresource>
+</RCC>
